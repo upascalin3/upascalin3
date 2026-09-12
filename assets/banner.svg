@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img">
+  <title>Uwayo Pascaline</title>
+  <desc>Software Engineer, Researcher, and Builder. Computer Science at Columbia Engineering.</desc>
+  <rect width="1280" height="420" fill="#0a0d12"/>
+  <g stroke="#f1ece3" stroke-opacity="0.045" stroke-width="1">
+    <path d="M0 56h1280M0 112h1280M0 168h1280M0 224h1280M0 280h1280M0 336h1280M0 392h1280"/>
+    <path d="M56 0v420M112 0v420M168 0v420M224 0v420M280 0v420M336 0v420M392 0v420M448 0v420M504 0v420M560 0v420M616 0v420M672 0v420M728 0v420M784 0v420M840 0v420M896 0v420M952 0v420M1008 0v420M1064 0v420M1120 0v420M1176 0v420M1232 0v420"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1278.5" height="418.5" fill="none" stroke="#f1ece3" stroke-opacity="0.1"/>
+  <g transform="translate(820,40)" opacity="0.88">
+    <line x1="48" y1="62" x2="148" y2="112" stroke="#7ea8b8" stroke-opacity="0.35"/>
+    <line x1="148" y1="112" x2="248" y2="74" stroke="#c9a36a" stroke-opacity="0.4"/>
+    <line x1="248" y1="74" x2="352" y2="128" stroke="#7ea8b8" stroke-opacity="0.32"/>
+    <line x1="148" y1="112" x2="176" y2="214" stroke="#f1ece3" stroke-opacity="0.16"/>
+    <line x1="248" y1="74" x2="278" y2="204" stroke="#f1ece3" stroke-opacity="0.16"/>
+    <line x1="176" y1="214" x2="278" y2="204" stroke="#c9a36a" stroke-opacity="0.28"/>
+    <line x1="352" y1="128" x2="418" y2="228" stroke="#7ea8b8" stroke-opacity="0.22"/>
+    <line x1="278" y1="204" x2="418" y2="228" stroke="#f1ece3" stroke-opacity="0.14"/>
+    <line x1="48" y1="62" x2="22" y2="188" stroke="#f1ece3" stroke-opacity="0.12"/>
+    <line x1="22" y1="188" x2="176" y2="214" stroke="#7ea8b8" stroke-opacity="0.2"/>
+    <circle cx="48" cy="62" r="3.4" fill="#7ea8b8"/>
+    <circle cx="148" cy="112" r="3.4" fill="#c9a36a"/>
+    <circle cx="248" cy="74" r="5" fill="#c9a36a"/>
+    <circle cx="352" cy="128" r="3.4" fill="#7ea8b8"/>
+    <circle cx="176" cy="214" r="3.4" fill="#7ea8b8"/>
+    <circle cx="278" cy="204" r="3.4" fill="#c9a36a"/>
+    <circle cx="418" cy="228" r="3.4" fill="#7ea8b8"/>
+    <circle cx="22" cy="188" r="3.4" fill="#c9a36a"/>
+  </g>
+  <text x="56" y="78" fill="#7ea8b8" font-family="'Courier New', Courier, monospace" font-size="14">COLUMBIA ENGINEERING  &#183;  COMPUTER SCIENCE  &#183;  2030</text>
+  <text x="56" y="168" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="74">Uwayo</text>
+  <text x="318" y="168" fill="#c9a36a" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-style="italic">Pascaline</text>
+  <text x="56" y="214" fill="#d8d2c6" font-family="'Courier New', Courier, monospace" font-size="16">SOFTWARE ENGINEER  &#183;  RESEARCHER  &#183;  BUILDER</text>
+  <rect x="56" y="248" width="72" height="1.5" fill="#c9a36a"/>
+  <text x="56" y="290" fill="#9a9488" font-family="Georgia, 'Times New Roman', serif" font-size="22">I investigate important problems. Then I build.</text>
+  <text x="56" y="368" fill="#9a9488" font-family="'Courier New', Courier, monospace" font-size="13">UP  &#183;  RWANDA CODING ACADEMY  &#8594;  COLUMBIA ENGINEERING</text>
+</svg>

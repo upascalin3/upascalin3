@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 180" role="img">
+  <title>Closing statement</title>
+  <rect width="1280" height="180" fill="#0a0d12"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="178.5" fill="none" stroke="#f1ece3" stroke-opacity="0.1"/>
+  <text x="640" y="78" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" text-anchor="middle">I don&apos;t want to build technology just because I can.</text>
+  <text x="640" y="118" fill="#9a9488" font-family="Georgia, 'Times New Roman', serif" font-size="18" text-anchor="middle">I want to understand important problems, then build what is useful.</text>
+</svg>

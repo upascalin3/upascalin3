@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 156" role="img">
+  <title>Areas of focus</title>
+  <rect width="1280" height="156" fill="#0a0d12"/>
+  <g fill="none" stroke="#c9a36a" stroke-opacity="0.45">
+    <rect x="40" y="22" width="380" height="48"/>
+    <rect x="450" y="22" width="380" height="48"/>
+    <rect x="860" y="22" width="380" height="48"/>
+    <rect x="245" y="86" width="380" height="48"/>
+    <rect x="655" y="86" width="380" height="48"/>
+  </g>
+  <g fill="#c9a36a" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" text-anchor="middle">
+    <text x="230" y="53">AI &#215; Healthcare</text>
+    <text x="640" y="53">AI &#215; Engineering</text>
+    <text x="1050" y="53">Data &#215; Economics</text>
+    <text x="435" y="117">Technology &#215; Education</text>
+    <text x="845" y="117">Software &#215; Social Impact</text>
+  </g>
+</svg>
