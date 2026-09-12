@@ -14,6 +14,8 @@
 
 <img src="assets/arc.svg" alt="Curious student to Researcher to Builder to Columbia Engineering" width="100%" />
 <img src="assets/rule.svg" alt="" width="100%" />
+
+<!--
 <img src="assets/intro.svg" alt="Computer Science at Columbia Engineering. Economics as a minor. Software and embedded systems from Rwanda Coding Academy." width="100%" />
 <img src="assets/intersections.svg" alt="Focus: AI x Healthcare, AI x Engineering, Data x Economics, Technology x Education, Software x Social Impact" width="100%" />
 
@@ -45,6 +47,8 @@
 <p align="center">
   <a href="https://portfolio-uwayo.vercel.app"><img src="assets/links.svg" alt="portfolio-uwayo.vercel.app · github.com/upascalin3" width="100%" /></a>
 </p>
+
+-->
 
 <!--
   This file belongs at the root of github.com/upascalin3/upascalin3
