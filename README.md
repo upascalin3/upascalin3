@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Uwayo Pascaline, Software Engineer, Researcher, Builder. Columbia Engineering, Computer Science, 2030." width="100%" />
+  <img src="assets/banner.svg" alt="Uwayo Pascaline — Software Engineer, Researcher, Builder. Columbia Engineering, Computer Science, 2030." width="100%" />
 </div>
 
 <p align="center">
@@ -12,69 +12,41 @@
   <a href="mailto:uwayopascaline87@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40" /></a>
 </p>
 
-<p align="center"><em>Curious student → Researcher → Builder → Columbia Engineering</em></p>
-
+<img src="assets/arc.svg" alt="Curious student to Researcher to Builder to Columbia Engineering" width="100%" />
 <img src="assets/rule.svg" alt="" width="100%" />
+<img src="assets/intro.svg" alt="Computer Science at Columbia Engineering. Economics as a minor. Software and embedded systems from Rwanda Coding Academy." width="100%" />
+<img src="assets/intersections.svg" alt="Focus: AI x Healthcare, AI x Engineering, Data x Economics, Technology x Education, Software x Social Impact" width="100%" />
 
-Computer Science at **Columbia Engineering**. Economics as a minor.  
-Software and embedded systems from **Rwanda Coding Academy**.
+<img src="assets/hdr-now.svg" alt="Now" width="100%" />
+<img src="assets/now.svg" alt="Studying Computer Science at Columbia. Learning to investigate before I build." width="100%" />
 
-I work where a real problem becomes a computing problem — in health, agriculture, education, finance, and intelligent systems.
+<img src="assets/hdr-experience.svg" alt="Experience" width="100%" />
+<a href="https://portfolio-uwayo.vercel.app/experience"><img src="assets/exp-rca-mis.svg" alt="RCA MIS, DevOps Engineer at Rwanda Coding Academy, November 2024 to May 2026." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/experience"><img src="assets/exp-sacola.svg" alt="SACOLA, Full-Stack Developer Intern, Summer 2025." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/experience"><img src="assets/exp-nhic.svg" alt="New Health Intelligence Center, Software / Technology Contributor, September 2025 to August 2026." width="100%" /></a>
 
-<img src="assets/intersections.svg" alt="Focus: AI x Healthcare, AI x Engineering, Data x Economics, Technology x Education, Software x Impact" width="100%" />
+<img src="assets/hdr-work.svg" alt="Selected work" width="100%" />
+<a href="https://portfolio-uwayo.vercel.app/projects/survie"><img src="assets/work-survie.svg" alt="SurVie — Health / AI concept." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/projects/stratiq"><img src="assets/work-stratiq.svg" alt="Stratiq — Data / finance exploration." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/projects/openlab"><img src="assets/work-openlab.svg" alt="OpenLab — Education exploration." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/projects/sarura"><img src="assets/work-sarura.svg" alt="Sarura — AgriTech exploration." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/projects/platy-ai"><img src="assets/work-platy.svg" alt="Platy AI — Nutrition exploration." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/projects"><img src="assets/work-more.svg" alt="Robotics and more on the portfolio." width="100%" /></a>
 
-### Now
+<img src="assets/hdr-research.svg" alt="Student research" width="100%" />
+<img src="assets/research-intro.svg" alt="Three student papers at Rwanda Coding Academy with Dr. Awet Fesseha." width="100%" />
+<a href="https://portfolio-uwayo.vercel.app/research/adaptive-morphing-aircraft-wings"><img src="assets/research-01.svg" alt="01 Morphing aircraft wings." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/research/data-science-and-poverty-traps"><img src="assets/research-02.svg" alt="02 Mobile money and poverty traps." width="100%" /></a>
+<a href="https://portfolio-uwayo.vercel.app/research/algorithmic-bias-in-health-datasets"><img src="assets/research-03.svg" alt="03 Bias in health data." width="100%" /></a>
+<img src="assets/research-note.svg" alt="Student research. Investigation, not deployed products." width="100%" />
 
-Studying Computer Science at Columbia. Learning to investigate before I build. Interested in AI, software engineering, data, embedded systems, and technology that is actually useful to people.
-
-### Experience
-
-**[RCA MIS](https://portfolio-uwayo.vercel.app/experience)** — DevOps Engineer, Rwanda Coding Academy. *November 2024 – May 2026.* Kept a school-wide academic and admin platform secure, reliable, and able to scale.
-
-**[SACOLA](https://portfolio-uwayo.vercel.app/experience)** — Full-Stack Developer Intern. *Summer 2025.*
-
-**[New Health Intelligence Center](https://portfolio-uwayo.vercel.app/experience)** — Software / Technology Contributor. *September 2025 – August 2026.*
-
-### Selected work
-
-**[SurVie](https://portfolio-uwayo.vercel.app/projects/survie)** — Health / AI. A more connected medical-information ecosystem. *Concept.*
-
-**[Stratiq](https://portfolio-uwayo.vercel.app/projects/stratiq)** — Data / finance. AI as a lens on financial decisions. *Exploration.*
-
-**[OpenLab](https://portfolio-uwayo.vercel.app/projects/openlab)** — Education. Virtual STEM labs where physical labs are scarce. *Exploration.*
-
-**[Sarura](https://portfolio-uwayo.vercel.app/projects/sarura)** — AgriTech. Farm and household decisions in one place. *Exploration.*
-
-**[Platy AI](https://portfolio-uwayo.vercel.app/projects/platy-ai)** — Nutrition. Better grocery decisions within a budget. *Exploration.*
-
-Robotics and the rest live on the [portfolio](https://portfolio-uwayo.vercel.app/projects).
-
-### Student research
-
-Work at Rwanda Coding Academy, including three papers with **Dr. Awet Fesseha**.
-
-1. **[Morphing aircraft wings](https://portfolio-uwayo.vercel.app/research/adaptive-morphing-aircraft-wings)** — NEMS, AI, and aerodynamics as an optimization problem.
-2. **[Mobile money and poverty traps](https://portfolio-uwayo.vercel.app/research/data-science-and-poverty-traps)** — whether digital finance can signal vulnerability in East Africa.
-3. **[Bias in health data](https://portfolio-uwayo.vercel.app/research/algorithmic-bias-in-health-datasets)** — fairness for underrepresented populations in Rwanda's health system.
-
-Student research. Investigation, not deployed products.
-
-<br/>
-
-<img src="assets/footer.svg" alt="I do not want to build technology just because I can. I want to understand important problems, then build what is useful." width="100%" />
+<img src="assets/footer.svg" alt="I do not want to build technology just because I can." width="100%" />
 
 <p align="center">
-  <sub>
-    <a href="https://portfolio-uwayo.vercel.app">portfolio-uwayo.vercel.app</a>
-    ·
-    <a href="https://github.com/upascalin3">github.com/upascalin3</a>
-    ·
-    She/Her
-  </sub>
+  <a href="https://portfolio-uwayo.vercel.app"><img src="assets/links.svg" alt="portfolio-uwayo.vercel.app · github.com/upascalin3" width="100%" /></a>
 </p>
 
 <!--
   This file belongs at the root of github.com/upascalin3/upascalin3
-  together with the assets/ folder. That special repository is what GitHub
-  shows as the profile README.
+  together with the assets/ folder.
 -->

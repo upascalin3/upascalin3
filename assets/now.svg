@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 136" width="1280" height="136" role="img">
+  <title>Now</title>
+  <rect width="1280" height="136" fill="#0a0d12"/>
+  <text x="56" y="40" fill="#d8d2c6" font-family="Georgia, 'Times New Roman', serif" font-size="20">Studying Computer Science at Columbia. Learning to investigate before I build.</text>
+  <text x="56" y="72" fill="#d8d2c6" font-family="Georgia, 'Times New Roman', serif" font-size="20">Interested in AI, software engineering, data, embedded systems, and technology</text>
+  <text x="56" y="104" fill="#d8d2c6" font-family="Georgia, 'Times New Roman', serif" font-size="20">that is actually useful to people.</text>
+</svg>

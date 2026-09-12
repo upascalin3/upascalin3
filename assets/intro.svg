@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 196" width="1280" height="196" role="img">
+  <title>Introduction</title>
+  <rect width="1280" height="196" fill="#0a0d12"/>
+  <text x="56" y="48" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Computer Science at Columbia Engineering. Economics as a minor.</text>
+  <text x="56" y="82" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Software and embedded systems from Rwanda Coding Academy.</text>
+  <text x="56" y="132" fill="#d8d2c6" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic">I work where a real problem becomes a computing problem —</text>
+  <text x="56" y="164" fill="#d8d2c6" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic">in health, agriculture, education, finance, and intelligent systems.</text>
+</svg>

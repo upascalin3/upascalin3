@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="1280" height="120" role="img">
+  <title>Morphing aircraft wings</title>
+  <rect width="1280" height="120" fill="#0a0d12"/>
+  <line x1="56" y1="1" x2="1224" y2="1" stroke="#f1ece3" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="56" y="42" fill="#c9a36a" font-family="'Courier New', Courier, monospace" font-size="13">01</text>
+  <text x="110" y="44" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic">Morphing aircraft wings</text>
+  <text x="110" y="80" fill="#9a9488" font-family="Georgia, 'Times New Roman', serif" font-size="17">NEMS, AI, and aerodynamics as an optimization problem.</text>
+</svg>

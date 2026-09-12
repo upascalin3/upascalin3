@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" width="1280" height="220" role="img">
+  <title>RCA MIS</title>
+  <rect width="1280" height="220" fill="#0a0d12"/>
+  <line x1="56" y1="1" x2="1224" y2="1" stroke="#f1ece3" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="56" y="36" fill="#c9a36a" font-family="'Courier New', Courier, monospace" font-size="13">NOVEMBER 2024  –  MAY 2026</text>
+  <text x="56" y="82" fill="#f1ece3" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic">RCA MIS</text>
+  <text x="56" y="114" fill="#7ea8b8" font-family="Georgia, 'Times New Roman', serif" font-size="16">DevOps Engineer  ·  Rwanda Coding Academy</text>
+  <text x="56" y="156" fill="#9a9488" font-family="Georgia, 'Times New Roman', serif" font-size="18">Kept a school-wide academic and admin platform secure, reliable, and able to scale.</text>
+  <text x="56" y="186" fill="#9a9488" font-family="Georgia, 'Times New Roman', serif" font-size="18">Students, teachers, and staff used it for courses, grades, records, and finances.</text>
+</svg>
